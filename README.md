@@ -1,0 +1,3 @@
+ git clone https://{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}@github.com/{Rbamoh}/alx-pre_course.git                  
+Cloning into 'alx-pre_course'...
+warning: You appear to have cloned an empty repository.
