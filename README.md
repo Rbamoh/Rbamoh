@@ -20,5 +20,5 @@ Total 3 (delta 0), reused 0 (delta 0)
 
 To https://github.com/{YOUR_USERNAME}/alx-pre_course.git                                                                                       
 
- * [new branch]      master -> master                
+  
 
